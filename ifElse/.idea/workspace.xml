@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3de7e203-678a-42a5-8250-63b7efb98287" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/forLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/loopControllStatements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/nestedLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/whileLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/dictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ifElse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifElse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/2DList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicalOperator/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicalOperator/.idea/logicalOperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicalOperator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicalOperator/logicalOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/.idea/set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuple/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuple/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuple/.idea/tuple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuple/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathFunction/.idea/mathFunction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mathFunction/.idea/mathFunction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathFunction/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mathFunction/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2DLY8CqbdLPBi3BsmAeJsdYKkJ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/OneDrive - MS Lifetime/Python_Programming/ifElse"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3de7e203-678a-42a5-8250-63b7efb98287" name="Changes" comment="" />
+      <created>1660479669871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660479669871</updated>
+    </task>
+    <servers />
+  </component>
+</project>

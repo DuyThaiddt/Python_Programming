@@ -1,0 +1,11 @@
+name = "Duy Thai"
+print(len(name))
+print(name.find("T"))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.isdigit())
+print(name.isalpha())
+print(name.count("a"))
+print(name.replace("u", "a0"))
+print(name*3)

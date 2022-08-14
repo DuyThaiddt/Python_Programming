@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28eb3e56-d1cd-4683-a646-a0511b402c67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/forLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/loopControllStatements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/nestedLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/whileLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/dictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifElse/.idea/ifElse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifElse/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifElse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifElse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifElse/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ifElse/ifElse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/2DList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicalOperator/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicalOperator/.idea/logicalOperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicalOperator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicalOperator/logicalOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonFundamentals/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonFundamentals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonFundamentals/1_Beginning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonFundamentals/2_Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonFundamentals/3_MultipleAssignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonFundamentals/4_StringMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonFundamentals/5_TypeCasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonFundamentals/6_UserInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/.idea/set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuple/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuple/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuple/.idea/tuple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuple/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloWorld/dataType.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mathFunction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonFundamentals/.idea/pythonFundamentals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dictionary/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonFundamentals/7_MathFunctions.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D50PU3iLajEv07kHANIWbNx03w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/OneDrive - MS Lifetime/Python_Programming/tuple"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive - MS Lifetime\Python_Programming\whileLoops" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.6_UserInput">
+    <configuration name="2_Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonFundamentals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonFundamentals/2_Variables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_MultipleAssignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonFundamentals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonFundamentals/3_MultipleAssignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4_StringMethods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonFundamentals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonFundamentals/4_StringMethods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5_TypeCasting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonFundamentals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonFundamentals/5_TypeCasting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6_UserInput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonFundamentals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonFundamentals/6_UserInput.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.6_UserInput" />
+        <item itemvalue="Python.5_TypeCasting" />
+        <item itemvalue="Python.4_StringMethods" />
+        <item itemvalue="Python.3_MultipleAssignment" />
+        <item itemvalue="Python.2_Variables" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28eb3e56-d1cd-4683-a646-a0511b402c67" name="Changes" comment="" />
+      <created>1659973613725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659973613725</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
