@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5364dc46-8bcc-4b2f-8d7e-a8e7200e44af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/14_BreakContinuousPass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_2DLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Dictionary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +38,7 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.18_Dictionary">
+  <component name="RunManager" selected="Python.19_Dictionary">
     <configuration name="12_ForLoops" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonFundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16_Tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17_Tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_Tuples.py" />
+      <option name="SCRIPT_NAME" value="D:\OneDrive - MS Lifetime\Python_Programming\pythonFundamentals\17_Tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17_Sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18_Sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17_Sets.py" />
+      <option name="SCRIPT_NAME" value="D:\OneDrive - MS Lifetime\Python_Programming\pythonFundamentals\18_Sets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18_Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19_Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_Dictionary.py" />
+      <option name="SCRIPT_NAME" value="D:\OneDrive - MS Lifetime\Python_Programming\pythonFundamentals\19_Dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,9 +167,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.18_Dictionary" />
-        <item itemvalue="Python.17_Sets" />
-        <item itemvalue="Python.16_Tuples" />
+        <item itemvalue="Python.19_Dictionary" />
+        <item itemvalue="Python.18_Sets" />
+        <item itemvalue="Python.17_Tuples" />
         <item itemvalue="Python.16_2DLists" />
         <item itemvalue="Python.15_Lists" />
       </list>
